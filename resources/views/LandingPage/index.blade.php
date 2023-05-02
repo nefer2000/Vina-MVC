@@ -19,10 +19,11 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/1.jpg" alt="..." />
+                                <img class="img-fluid" src="assets/img/portfolio/5.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">{{$data['first_name']}}</div>
+                                <div class="portfolio-caption-heading">{{$data['last_name']}}</div>
                                 <div class="portfolio-caption-subheading text-muted">{{$data['email']}}</div>
                             </div>
                         </div>
